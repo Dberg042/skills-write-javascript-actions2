@@ -1,4 +1,4 @@
-const request = require("request-promise");
+const request = require("./node_modules/request-promise/lib/rp");
 
 const options = {
   method: "GET",
